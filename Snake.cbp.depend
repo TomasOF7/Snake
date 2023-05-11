@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1475900489 source:d:\tomás\imagenes snake\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475900490 d:\tomás\imagenes snake\inicia.h
+
+1683776216 source:d:\tomás\imagenes snake\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<iostream>
+	<winalleg.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
